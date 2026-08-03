@@ -1,12 +1,12 @@
 # ЗАДАНИЕ 1: Работа с типами данных
 stroka = "Привет"
-number = 42
-float = 3.14
-list = [1, 2, 3]
+chislo = 42
+chislostochkoy = 3.14
+spisok = [1, 2, 3]
 print(type(stroka))
-print(type(number))
-print(type(float))
-print(type(list))
+print(type(chislo))
+print(type(chislostochkoy))
+print(type(spisok))
 
 # ЗАДАНИЕ 2: Преобразование регистра строк
 text = "python PROGRAMMING"
