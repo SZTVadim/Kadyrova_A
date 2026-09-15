@@ -13,7 +13,7 @@ users = {
      "anna": "pass",
      "guest": "guest"
  }
-dictusers = {x: len(x) for x in users}
+dictusers = {x: len(users[x]) for x in users}
 print(dictusers)
 
 # ЗАДАНИЕ 3: Кортеж и tuple(...)
